@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_title">Home</string>
+    <string name="modes_title">Modes</string>
+    <string name="save_slots_title">Speicherslots</string>
+    <string name="presets_title">Presets</string>
+    <string name="load_slot">Laden</string>
+    <string name="save_slot_1">Slot 1</string>
+    <string name="save_slot_2">Slot 2</string>
+    <string name="save_slot_3">Slot 3</string>
+    <string name="save_slot_4">Slot 4</string>
+    <string name="slot_setdefault">Standardslot auf %1d gesetzt</string>
+    <string name="set_static_button_text">Start</string>
+    <string name="color_1_text">Farbe 1</string>
+    <string name="twinkle_title">Funkeln</string>
+    <string name="color_2_text">Farbe 2</string>
+    <string name="base_color_text">Grundfarbe</string>
+    <string name="static_title">Statisch</string>
+    <string name="slot_unassigned">Dieser Slot ist leer</string>
+    <string name="saving_dialog_text">Speichern...</string>
+    <string name="saving_failed">Speichern fehlgeschlagen</string>
+    <string name="saving_success">Gespeichert</string>
+    <string name="setdefault_failed">Standardslot konnte nicht gesetzt werden</string>
+    <string name="waterfall_direction_text">Richtung</string>
+    <string name="waterfall_title">Wasserfall</string>
+    <string name="title_activity_settings">Einstellungen</string>
+    <string name="lamp_ip">IP der Lampe</string>
+    <string name="color_3_text">Farbe 3</string>
+    <string name="color_4_text">Farbe 4</string>
+</resources>
